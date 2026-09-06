@@ -1,0 +1,12 @@
+{
+  "name": "genpark-anti-bot-fingerprint-entropy-neutralizer-skill",
+  "version": "1.0.0",
+  "description": "Validates and normalizes browser WebGL, Canvas, and Navigator fingerprint attributes to prevent automated detection.",
+  "category": "Autonomous Browser Automation & Web Agents",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-anti-bot-fingerprint-entropy-neutralizer-skill",
+  "verified": true,
+  "stars": 8
+}
